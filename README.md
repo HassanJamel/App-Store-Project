@@ -1,9 +1,10 @@
 
 <p align="center">
-  <img src="2.PNG" alt="  Apple (EDA) " width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/apple-appstore-eda-data-analysis" target="_blank">
+    <img src="2.PNG" alt="Apple AppStore EDA Data Analysis" width="900">
+  </a>
 </p>
 
-```md
 
 # 📱 ملخص مشروع تحليل بيانات متجر تطبيقات Apple (EDA)
 
